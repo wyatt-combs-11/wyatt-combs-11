@@ -1,6 +1,7 @@
 # 500 Internal Server Error
 ### This profile's README is way too complex, hilarious, and professional to load. Sorry for the inconvenience.
 
+Next Steps (After this error gets fixed): [GitHub Pages Exploration for site](https://github.com/wyatt-combs-11/GHExercise-skills-communicate-using-markdown/blob/main/README.md)
 <!--
 **wyatt-combs-11/wyatt-combs-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
